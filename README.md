@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Manan.
+Hi! I'm Manan. <br>
 I'm pursuing an Honours Bachelor's of Science Degree at the University of Toronto while specializing in Computer Science!<br>
 
 
