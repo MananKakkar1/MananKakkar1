@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Manan Kakkar, a Computer Science student at the University of Toronto, specializing in software development through the Computer Science Specialist and co-op programs. 
 
 I’m passionate about building impactful software, exploring emerging technologies, and collaborating on creative projects.<br>
