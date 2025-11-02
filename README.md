@@ -3,7 +3,7 @@ Hi, I’m Manan Kakkar, a Computer Science student at the University of Toronto,
 
 I’m passionate about building impactful software, exploring emerging technologies, and collaborating on creative projects.<br>
 
-Checkout my portfolio: [manankakkar.com](https://manankakkar.com) + [devpost.com][https://devpost.com/MananKakkar1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav]
+Checkout my portfolio: [manankakkar.com](https://manankakkar.com) + [devpost.com](https://devpost.com/MananKakkar1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manankakkar11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manan.kakkar.2005@outlook.com]) 
