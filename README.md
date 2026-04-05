@@ -5,7 +5,7 @@
 <h2 align="center">Manan Kakkar</h2>
 
 <p align="center">
-  cs @ university of toronto &nbsp;·&nbsp; incoming swe intern @ amd
+  cs @ university of toronto &nbsp;·&nbsp; incoming @ amd
 </p>
 
 <br/>
