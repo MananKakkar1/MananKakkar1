@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://[manankakkar.com](https://full-stack-portfolio-goly.vercel.app/)">portfolio</a>
+  <a href="https://full-stack-portfolio-goly.vercel.app/">portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://devpost.com/MananKakkar1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">devpost</a>
   &nbsp;·&nbsp;
